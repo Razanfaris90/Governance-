@@ -24,19 +24,19 @@ The project outlines the data governance strategy and policies, covering aspects
 The team gained expertise in data governance, risk assessment, and the challenges of implementing security policies, contributing to a robust and adaptable cybersecurity framework.
 
 ## Contributors
-1-Razan Faris
+1-Razan Faris:
 Process + scale factory + risk matrix
 
-2-Wafaa Alawadhi
+2-Wafaa Alawadhi:
 Policy + roles and resbonsblity + FMEA
 
-3-Manar Alsamily
+3-Manar Alsamily:
 Inventory + dictionary + pdf
 
-5-Fatmah Al-Husieen
+5-Fatmah Al-Husieen:
 Glossary + standard
 
-6-Retaj baaqeel
+6-Retaj baaqeel:
 How to comply with PDPL + strategy
 
 This project emphasizes continuous improvement, with regular audits, security assessments, and a commitment to data protection and regulatory compliance.
