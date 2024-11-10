@@ -26,12 +26,16 @@ The team gained expertise in data governance, risk assessment, and the challenge
 ## Contributors
 1-Razan Faris
 Process + scale factory + risk matrix
+
 2-Wafaa Alawadhi
 Policy + roles and resbonsblity + FMEA
+
 3-Manar Alsamily
 Inventory + dictionary + pdf
+
 5-Fatmah Al-Husieen
 Glossary + standard
+
 6-Retaj baaqeel
 How to comply with PDPL + strategy
 
